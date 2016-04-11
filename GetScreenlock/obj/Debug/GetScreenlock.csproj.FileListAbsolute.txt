@@ -1,0 +1,6 @@
+c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\bin\Debug\GetScreenlock.exe.config
+c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\bin\Debug\GetScreenlock.exe
+c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\bin\Debug\GetScreenlock.pdb
+c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\obj\Debug\GetScreenlock.csprojResolveAssemblyReference.cache
+c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\obj\Debug\GetScreenlock.exe
+c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\obj\Debug\GetScreenlock.pdb
