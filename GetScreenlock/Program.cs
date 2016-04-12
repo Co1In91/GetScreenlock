@@ -15,7 +15,8 @@ namespace GetScreenlock
             string screenlockFa = null;
             Console.WriteLine("###Author Co1In");
             Console.WriteLine(@"###File Path: C:\Background");
-            DirectoryInfo screenlockRoot = new DirectoryInfo(@"C:\Users\Co1In\AppData\Local\Packages");
+            Console.WriteLine(@"###User: {0}", System.Environment.UserName);
+            DirectoryInfo screenlockRoot = new DirectoryInfo(@"C:\Users\" + System.Environment.UserName + @"\AppData\Local\Packages");
             foreach (DirectoryInfo item in screenlockRoot.GetDirectories())
             {
                 if (item.Name.Contains("Microsoft.Windows.ContentDeliveryManager"))

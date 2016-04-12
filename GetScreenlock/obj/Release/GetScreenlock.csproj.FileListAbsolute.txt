@@ -3,3 +3,8 @@ c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock
 c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\bin\Release\GetScreenlock.pdb
 c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\obj\Release\GetScreenlock.exe
 c:\users\co1in\documents\visual studio 2015\Projects\GetScreenlock\GetScreenlock\obj\Release\GetScreenlock.pdb
+D:\Github\GetScreenlock\GetScreenlock\bin\Release\GetScreenlock.exe.config
+D:\Github\GetScreenlock\GetScreenlock\obj\Release\GetScreenlock.exe
+D:\Github\GetScreenlock\GetScreenlock\obj\Release\GetScreenlock.pdb
+D:\Github\GetScreenlock\GetScreenlock\bin\Release\GetScreenlock.exe
+D:\Github\GetScreenlock\GetScreenlock\bin\Release\GetScreenlock.pdb
